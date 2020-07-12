@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 8222595241296765035}
   - component: {fileID: 8222595241296765032}
   m_Layer: 9
-  m_Name: RollerBall
+  m_Name: RollerBall Level2
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64,7 +64,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9e59897b27eed84eaa7116821cd5ef9f, type: 2}
+  - {fileID: 2100000, guid: cab0afdbcc598c9338e285719f652555, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
