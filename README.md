@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Level 1 preview"
+[image1]: https://github.com/Vishal0703/Roller_Madness/blob/master/pics/image.png "Level 1 preview"
 
 # Roller_Madness
 Get mad and roll.......
@@ -14,3 +14,4 @@ We have :
 - Naughty jumpy coins (they don't last long - so be sure to catch them fast)
 - And a Deathzone... well you know what it means
 
+![Level 1 preview][image1]
