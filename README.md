@@ -11,6 +11,7 @@ A fun roller ball game with bouncy chasers running after you while you try to co
 We have :
 - A bouncy floor
 - Jumpy bumpers
+- Takeoff Sliders
 - Angry chasers
 - Cute little spinning coins
 - Naughty jumpy coins (they don't last long - so be sure to catch them fast)
